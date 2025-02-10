@@ -1,0 +1,16 @@
+filename = 'NeoAuth-1.20.1-1.0.3.jar'
+name = 'NeoAuth'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '01ff177c2846f69fcf6bec6f09d1ab9d3d38ca9921e92fcf9043a34ad300223dbc925b9e5ac20d39bc8e1de499f5264748dc579c3a15c406131fe9aeec9fe4ea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zeZhoBhv/versions/9xLXbEMY/NeoAuth-1.20.1-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'zeZhoBhv'
+version = '9xLXbEMY'

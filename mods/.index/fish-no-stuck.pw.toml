@@ -1,0 +1,16 @@
+filename = 'fishnostuck-mc1.20.1-v1.0.3-forge.jar'
+name = 'Fish No Stuck'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24e5840f78563cbde389a5935c14a06325ec15b64c3ee1d86c575c18ff81127b173b41b0f02a8d8c810f308c42fdcd181b4094b0d1631f287c0e7f084eef6c56'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IjXg2Day/versions/s9q4voot/fishnostuck-mc1.20.1-v1.0.3-forge.jar'
+
+[update.modrinth]
+mod-id = 'IjXg2Day'
+version = 's9q4voot'

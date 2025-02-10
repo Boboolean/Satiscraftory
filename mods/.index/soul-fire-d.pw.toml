@@ -1,0 +1,16 @@
+filename = 'soul-fire-d-forge-1.20.1-4.0.10.jar'
+name = "Soul Fire'd"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '70abf5f07230010eb4d3bb5f3de924a1efd1c7677ec6e0ae4f9b8579690b7590f56f2cb53a954d72563c8f4c78ab5ef23bad313a32e0ad37b67ddd243944314c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/d6MhxwRo/versions/W1D2urzZ/soul-fire-d-forge-1.20.1-4.0.10.jar'
+
+[update.modrinth]
+mod-id = 'd6MhxwRo'
+version = 'W1D2urzZ'

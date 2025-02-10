@@ -1,0 +1,30 @@
+filename = 'Hearths v1.0.2 f12-61.jar'
+name = 'Hearths'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad21e2f3fae69b150f955c0592721f564043d54aef533922c7443df0816bc84d6d1242c5444fe7d4536553029f045733ab252b9f47ac4d0c1974dbcdc6950f8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XCIMrYn0/versions/5k2kJNGP/Hearths v1.0.2 f12-61.jar'
+
+[update.modrinth]
+mod-id = 'XCIMrYn0'
+version = '5k2kJNGP'

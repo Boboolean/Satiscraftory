@@ -1,0 +1,12 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "dev.huskuraft.effortless.forge.gui.MinecraftProxyScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true
+  }
+}

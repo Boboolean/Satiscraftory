@@ -1,0 +1,16 @@
+filename = 'tinyfoes-1.20.1-1.0-forge.jar'
+name = 'Tiny Foes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ef97de5ad0d05f772dd5f32dcd200b4356cbb8b925bb93a1157ec2b665aef04ebf168b1c0ceb31268e19e8d50f963dba2285fec1dc14ee8f3eb26813dcc1331'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Io9IpdK7/versions/FaLcpaUt/tinyfoes-1.20.1-1.0-forge.jar'
+
+[update.modrinth]
+mod-id = 'Io9IpdK7'
+version = 'FaLcpaUt'

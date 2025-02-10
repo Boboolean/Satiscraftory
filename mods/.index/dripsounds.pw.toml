@@ -1,0 +1,16 @@
+filename = 'Drip Sounds-0.4.0+1.20.4-Forge.jar'
+name = 'Drip Sounds'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e7a8622879e1f40b7599856195532f7df085ef89c0b0a08876786a2ece186ef9ec10bd531cb7c4300a154c40685ef019966b2fe23cb79ee282f5460978ee7a4d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T8MMXTpr/versions/MbDSI6QI/Drip Sounds-0.4.0%2B1.20.4-Forge.jar'
+
+[update.modrinth]
+mod-id = 'T8MMXTpr'
+version = 'MbDSI6QI'
