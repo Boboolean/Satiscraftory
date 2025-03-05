@@ -1,0 +1,13 @@
+filename = 'e4mc_minecraft-forge-5.3.0.jar'
+name = 'e4mc'
+side = 'server'
+
+[download]
+hash = '11dccc282032fb8700d3560363c50c6ee8dfdad2c469769ba814fd79b12dac9067825a3bcf50c3d47020066b004cb58bdbb4a3fb2c9df398a1512f56cd95979b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qANg5Jrr/versions/W7N6Gx7j/e4mc_minecraft-forge-5.3.0.jar'
+
+[update.modrinth]
+mod-id = 'qANg5Jrr'
+version = 'W7N6Gx7j'

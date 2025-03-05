@@ -1,0 +1,13 @@
+filename = 'morearmortrims-1.4.1-1.20.1.jar'
+name = 'More Armor Trims'
+side = 'both'
+
+[download]
+hash = '7c896735037b08627198da43c95dd42384a67ebba31622016605dffa610e2b86f464d87b0474befde360d719e8c421c7130d5b41d11decbf09ee72074f72ba86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FGNYBAJ6/versions/AQDvTm1D/morearmortrims-1.4.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'FGNYBAJ6'
+version = 'AQDvTm1D'
